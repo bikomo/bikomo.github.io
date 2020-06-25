@@ -24,10 +24,10 @@ Der Kommissar zu seinem Assistenten:
   
 
 
-<img src="https://cdn.pixabay.com/photo/2018/12/09/07/36/city-3864462__480.jpg">
-<img src="https://cdn.pixabay.com/photo/2018/12/13/19/17/street-display-3873545__480.jpg">
+<img src="https://cdn.pixabay.com/photo/2018/12/09/07/36/city-3864462__480.jpg" width="720" height="480" border="0">
   
-<img src="https://cdn.pixabay.com/photo/2019/03/12/09/18/tomatoes-4050245__480.jpg">
+<img src="https://cdn.pixabay.com/photo/2018/12/13/19/17/street-display-3873545__480.jpg" width="360" height="240" border="0">
+  <img src="https://cdn.pixabay.com/photo/2019/03/12/09/18/tomatoes-4050245__480.jpg" width="360" height="240" border="0">
 
-Quelle: Image by RDLH from Pixabay
+Quelle: Images by RDLH from Pixabay
 
