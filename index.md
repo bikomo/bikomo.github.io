@@ -25,10 +25,10 @@ Der Kommissar zu seinem Assistenten:
   
 
 
-<img src="city-3864462_1920.jpg">
-<img src="street-display-3873545_1920.jpg">
+<img src="bikomo.github.io/city-3864462_1920.jpg">
+<img src="bikomo.github.io/street-display-3873545_1920.jpg">
   
-<img src="tomatoes-4050245_1920.jpg">
+<img src="bikomo.github.io/tomatoes-4050245_1920.jpg">
 
 Quelle: Image by RDLH from Pixabay
 
