@@ -19,4 +19,4 @@ Der Kommissar zu seinem Assistenten:
 
 > Hast du denn nichts als Stroh im Kopf? Am Tatort muss alles unverändert bleiben, hörst du? Immer!
 
-<img src="https://commons.wikimedia.org/wiki/File:Plateau_de_valensole1.JPG"/> 
+<img src="https://https://upload.wikimedia.org/wikipedia/commons/a/a3/Plateau_de_valensole1.JPG"/> 
