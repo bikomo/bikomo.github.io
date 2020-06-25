@@ -25,5 +25,5 @@ Der Kommissar zu seinem Assistenten:
   
 
 
-<img src="https://de.wikipedia.org/wiki/Provence#/media/Datei:Plateau_de_valensole1.JPG">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Plateau_de_valensole1.JPG/1920px-Plateau_de_valensole1.JPG">
 Quelle: wikipedia 
