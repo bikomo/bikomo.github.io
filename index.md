@@ -15,3 +15,8 @@ Hierher läßt sich der ehemalige Pariser Kommissar Pierre Durand versetzen, um 
 * schätzt gute Essen und guten Wein
 
 
+Der Kommissar zu seinem Assistenten:
+
+> Hast du denn nichts als Stroh im Kopf? Am Tatort muss alles unverändert bleiben, hörst du? Immer!
+
+
