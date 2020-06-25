@@ -15,7 +15,7 @@ Hierher läßt sich der ehemalige Pariser Kommissar Pierre Durand versetzen, um 
 * intelligent und erfolgreich
 * obwohl nun schon mehrere Jahre in Saint-Valerie lebend, wird er von den Einheimischen noch immer als "der Pariser" betrachtet
 * schätzt gute Essen und guten Wein
-
+  
   
   
 Der Kommissar zu seinem Assistenten:
@@ -24,10 +24,10 @@ Der Kommissar zu seinem Assistenten:
   
 
 
-<img src="Documents/city-3864462_1920.jpg">
-<img src="Documents/street-display-3873545_1920.jpg">
+<img src="https://cdn.pixabay.com/photo/2018/12/09/07/36/city-3864462__480.jpg">
+<img src="https://cdn.pixabay.com/photo/2018/12/13/19/17/street-display-3873545__480.jpg">
   
-<img src="Documents/tomatoes-4050245_1920.jpg">
+<img src="https://cdn.pixabay.com/photo/2019/03/12/09/18/tomatoes-4050245__480.jpg">
 
 Quelle: Image by RDLH from Pixabay
 
