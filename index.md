@@ -18,17 +18,16 @@ Hierher läßt sich der ehemalige Pariser Kommissar Pierre Durand versetzen, um 
 
   
   
-
 Der Kommissar zu seinem Assistenten:
 
 > Hast du denn nichts als Stroh im Kopf? Am Tatort muss alles unverändert bleiben, hörst du? Immer!
   
 
 
-<img src="bikomo.github.io/city-3864462_1920.jpg">
-<img src="bikomo.github.io/street-display-3873545_1920.jpg">
+<img src="Documents/city-3864462_1920.jpg">
+<img src="Documents/street-display-3873545_1920.jpg">
   
-<img src="bikomo.github.io/tomatoes-4050245_1920.jpg">
+<img src="Documents/tomatoes-4050245_1920.jpg">
 
 Quelle: Image by RDLH from Pixabay
 
