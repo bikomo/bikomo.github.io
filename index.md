@@ -19,4 +19,4 @@ Der Kommissar zu seinem Assistenten:
 
 > Hast du denn nichts als Stroh im Kopf? Am Tatort muss alles unverändert bleiben, hörst du? Immer!
 
-<img src="https://www.planet-wissen.de/kultur/westeuropa/provence_landschaft_der_duefte/introprovencedorfgjpg100~_v-HintergrundL.jpg"/> 
+<img src="https://www.planet-wissen.de/kultur/westeuropa/provence_landschaft_der_duefte/introprovencedorfgjpg100~_v-HintergrundL.jpg"> 
