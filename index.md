@@ -25,5 +25,10 @@ Der Kommissar zu seinem Assistenten:
   
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Plateau_de_valensole1.JPG/1920px-Plateau_de_valensole1.JPG">
-Quelle: wikipedia 
+<img src="city-3864462_1920.jpg">
+<img src="street-display-3873545_1920.jpg">
+  
+<img src="tomatoes-4050245_1920.jpg">
+
+Quelle: Image by RDLH from Pixabay
+
